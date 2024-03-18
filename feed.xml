@@ -1,0 +1,316 @@
+<root>
+    <kyero>
+        <feed_version>3</feed_version>
+    </kyero>
+    <property>
+        <id>fdaeda4e-3d7b-4ffd-89a4-7daac30eadfc</id>
+        <date>2024-02-12 10:00:00</date>
+        <ref>CDS-FINCA-PERIANA</ref>
+        <price>595000</price>
+        <currency>EUR</currency>
+        <price_freq>sale</price_freq>
+        <part_ownership>0</part_ownership>
+        <leasehold>0</leasehold>
+        <new_build>0</new_build>
+        <type>Country house</type>
+        <town>Periana</town>
+        <province>Málaga</province>
+        <country>Spain</country>
+        <location>
+            <latitude>36.95165</latitude>
+            <longitude>-4.20543</longitude>
+        </location>
+        <location_detail>Costa del Sol</location_detail>
+        <beds>6</beds>
+        <baths>3</baths>
+        <pool>1</pool>
+        <surface_area>
+            <built>260</built>
+            <plot>6158</plot>
+        </surface_area>
+        <url>
+            <nl>https://micosta.be/aanbod/herverkoop/gerenoveerd-landhuis-periana/</nl>
+        </url>
+        <desc>
+            <en><![CDATA[ A completely renovated (2020) country house with numerous possibilities surrounded by a beautiful olive grove. Ideal for a B&B or vacation rental. The house has been renovated with respect for nature and has a rural character. All comforts such as underfloor heating, heated pool with jet stream and heated outdoor shower are available. Moreover, the country house has a ground floor with 4 bedrooms, 2 bathrooms, living room and equipped kitchen. There are 2 bedrooms that have direct access to the terrace. The upper floor can be used as a full apartment with a separate entrance, 2 bedrooms, bathroom, toilet, spacious living area and equipped kitchen. In the olive grove there are centuries-old Verdial olive trees. Features: estate, 2 floors, 260 m² built with 203 m² living space, 6 bedrooms, 3 bathrooms, plot of 6,158 m², terrace, balcony, fireplace, fitted wardrobes, storage room, south facing, private pool, private olive grove. ]]></en>
+            <es><![CDATA[ Una casa de campo totalmente renovada (2020) con numerosas posibilidades rodeada de un hermoso olivar. Ideal para un B&B o alquiler vacacional. La propiedad ha sido renovada respetando la naturaleza y tiene un carácter rural. Dispone de todas las comodidades, como calefacción por suelo radiante, piscina climatizada con chorro de agua y ducha exterior climatizada. Además, la casa de campo tiene una planta baja con 4 dormitorios, 2 baños, salón y cocina equipada. Hay 2 dormitorios con acceso directo a la terraza. La planta superior se puede utilizar como piso completo con entrada independiente, 2 dormitorios, baño, aseo, amplia zona de estar y cocina equipada. En el olivar hay olivos centenarios de Verdial. Características: finca, 2 plantas, 260 m² construidos con 203 m² útiles, 6 dormitorios, 3 baños, parcela de 6.158 m², terraza, balcón, chimenea, armarios empotrados, trastero, orientación sur, piscina privada, olivar privado. ]]></es>
+            <nl><![CDATA[ Een volledig gerenoveerd (2020) landhuis met tal van mogelijkheden omringd door een prachtige olijfboomgaard. Ideaal voor een B&B of vakantieverhuur. De woning is gerenoveerd met respect voor de natuur en heeft een landelijk karakter. Alle comfort zoals vloerverwarming, verwarmd zwembad met jetstream en verwarmde buitendouche is aanwezig. Bovendien heeft het landhuis een gelijksvloers met 4 slaapkamers, 2 badkamers, woonkamer en ingerichte keuken. Er zijn 2 slaapkamers die rechtstreeks toegang hebben tot het terras. De bovenverdieping kan gebruikt worden als een volwaardig appartement met een aparte ingang, 2 slaapkamers, badkamer, toilet, ruime leefruimte en ingerichte keuken. In de olijfboomgaard staan eeuwenoude Verdial olijfbomen. Kenmerken: landgoed, 2 verdiepingen, 260 m² bebouwd met 203 m² woonoppervlakte, 6 slaapkamers, 3 badkamers, perceel van 6.158 m², terras, balkon, open haard, inbouwkasten, opslagruimte, zuidgeoriënteerd, privé zwembad, privé olijfboomgaard. ]]></nl>
+        </desc>
+        <images>
+            <image id="1">
+                <url>
+                    https://micosta.be/site/assets/files/44279/dcaab008-9772-4aad-8ff4-b922d3110aba.jpg</url>
+            </image>
+            <image id="2">
+                <url>https://micosta.be/site/assets/files/44279/dsc_5911.jpg</url>
+            </image>
+            <image id="3">
+                <url>
+                    https://micosta.be/site/assets/files/44279/9218d1d9-284e-4800-97a2-ad79b23b0ff4.jpeg</url>
+            </image>
+            <image id="4">
+                <url>
+                    https://micosta.be/site/assets/files/44279/c77d6849-998b-4983-974e-72fc0d1a34c2.jpeg</url>
+            </image>
+            <image id="5">
+                <url>https://micosta.be/site/assets/files/44279/img_0378.jpg</url>
+            </image>
+            <image id="6">
+                <url>https://micosta.be/site/assets/files/44279/img_9672.jpg</url>
+            </image>
+            <image id="7">
+                <url>https://micosta.be/site/assets/files/44279/poort_zicht_straat.jpg</url>
+            </image>
+            <image id="8">
+                <url>https://micosta.be/site/assets/files/44279/raam_zicht_zwembad.jpg</url>
+            </image>
+            <image id="9">
+                <url>https://micosta.be/site/assets/files/44279/leefruimte_beneden_zicht_keuken.jpg</url>
+            </image>
+            <image id="10">
+                <url>https://micosta.be/site/assets/files/44279/img_0077.jpg</url>
+            </image>
+            <image id="11">
+                <url>
+                    https://micosta.be/site/assets/files/44279/zithoek_benden_richting_achtekant.jpg</url>
+            </image>
+            <image id="12">
+                <url>https://micosta.be/site/assets/files/44279/zithoek_beneden.jpg</url>
+            </image>
+            <image id="13">
+                <url>https://micosta.be/site/assets/files/44279/img_2360.jpg</url>
+            </image>
+            <image id="14">
+                <url>https://micosta.be/site/assets/files/44279/raam_master.jpg</url>
+            </image>
+            <image id="15">
+                <url>https://micosta.be/site/assets/files/44279/61.jpg</url>
+            </image>
+            <image id="16">
+                <url>https://micosta.be/site/assets/files/44279/patio.jpg</url>
+            </image>
+            <image id="17">
+                <url>
+                    https://micosta.be/site/assets/files/44279/015d479a-53fa-4a83-96ec-57240ff46ca7.jpeg</url>
+            </image>
+            <image id="18">
+                <url>https://micosta.be/site/assets/files/44279/111.jpg</url>
+            </image>
+            <image id="19">
+                <url>https://micosta.be/site/assets/files/44279/222.jpg</url>
+            </image>
+            <image id="20">
+                <url>https://micosta.be/site/assets/files/44279/521.jpg</url>
+            </image>
+            <image id="21">
+                <url>https://micosta.be/site/assets/files/44279/apero_tafel.jpg</url>
+            </image>
+            <image id="22">
+                <url>https://micosta.be/site/assets/files/44279/apero_zetel.jpg</url>
+            </image>
+            <image id="23">
+                <url>https://micosta.be/site/assets/files/44279/badkamer_benden_meubel.jpg</url>
+            </image>
+            <image id="24">
+                <url>https://micosta.be/site/assets/files/44279/buitenzetel_boomgaard.jpg</url>
+            </image>
+            <image id="25">
+                <url>https://micosta.be/site/assets/files/44279/cama.jpg</url>
+            </image>
+            <image id="26">
+                <url>https://micosta.be/site/assets/files/44279/cama_apero_hoek.jpg</url>
+            </image>
+            <image id="27">
+                <url>https://micosta.be/site/assets/files/44279/cama_zwembad.jpg</url>
+            </image>
+            <image id="28">
+                <url>https://micosta.be/site/assets/files/44279/sin_titulo-3.jpg</url>
+            </image>
+            <image id="29">
+                <url>https://micosta.be/site/assets/files/44279/slaapkamer_cosita.jpg</url>
+            </image>
+            <image id="30">
+                <url>https://micosta.be/site/assets/files/44279/slaapkamer_benden_zicht_kasten.jpg</url>
+            </image>
+            <image id="31">
+                <url>https://micosta.be/site/assets/files/44279/slaapkamer_beneden_met_muurzicht.jpg</url>
+            </image>
+            <image id="32">
+                <url>
+                    https://micosta.be/site/assets/files/44279/raam_slaapkamer_achterkant_beneden.jpg</url>
+            </image>
+            <image id="33">
+                <url>https://micosta.be/site/assets/files/44279/leefruimte_met_keuken.jpg</url>
+            </image>
+            <image id="34">
+                <url>https://micosta.be/site/assets/files/44279/keuken_boven.jpg</url>
+            </image>
+            <image id="35">
+                <url>https://micosta.be/site/assets/files/44279/img_2919.jpg</url>
+            </image>
+            <image id="36">
+                <url>https://micosta.be/site/assets/files/44279/slaapkamer_boven.jpg</url>
+            </image>
+            <image id="37">
+                <url>https://micosta.be/site/assets/files/44279/trap_cosita.jpg</url>
+            </image>
+            <image id="38">
+                <url>https://micosta.be/site/assets/files/44279/zicht_apero_tafel_terras.jpg</url>
+            </image>
+            <image id="39">
+                <url>https://micosta.be/site/assets/files/44279/zicht_dal.jpg</url>
+            </image>
+            <image id="40">
+                <url>https://micosta.be/site/assets/files/44279/zicht_raampje_slaapkamer_cosita.jpg</url>
+            </image>
+            <image id="41">
+                <url>https://micosta.be/site/assets/files/44279/zicht_terras_en_bergen.jpg</url>
+            </image>
+            <image id="42">
+                <url>https://micosta.be/site/assets/files/44279/zwembad_apero_tafel.jpg</url>
+            </image>
+            <image id="43">
+                <url>
+                    https://micosta.be/site/assets/files/44279/zwembad_boomgaard_terras_onde_de_olijfboom.jpg</url>
+            </image>
+            <image id="44">
+                <url>
+                    https://micosta.be/site/assets/files/44279/f7b036db-d48d-44a4-88e7-c6988d631d3a.jpeg</url>
+            </image>
+            <image id="45">
+                <url>https://micosta.be/site/assets/files/44279/img_0376.jpg</url>
+            </image>
+            <image id="46">
+                <url>https://micosta.be/site/assets/files/44279/img_8216.jpg</url>
+            </image>
+        </images>
+    </property>
+    <property>
+        <id>23014de5-d0c7-4343-967e-04cff072b796</id>
+        <date>2024-01-12 10:00:00</date>
+        <ref>CBL-Z-SMS-291</ref>
+        <price>495000</price>
+        <currency>EUR</currency>
+        <price_freq>sale</price_freq>
+        <part_ownership>0</part_ownership>
+        <leasehold>0</leasehold>
+        <new_build>0</new_build>
+        <type>Villa</type>
+        <town>San Miguel de Salinas</town>
+        <province>Alicante</province>
+        <country>Spain</country>
+        <location>
+            <latitude>37.95091958581818</latitude>
+            <longitude>-0.7893731454888405</longitude>
+        </location>
+        <location_detail>Costa Blanca</location_detail>
+        <beds>3</beds>
+        <baths>2</baths>
+        <pool>1</pool>
+        <surface_area>
+            <built>106</built>
+            <plot>391</plot>
+        </surface_area>
+        <url>
+            <nl>
+                https://micosta.be/aanbod/herverkoop/villa-herverkoop-san-miguel-de-salinas-3slaapkamers-2badkamers/</nl>
+        </url>
+        <desc>
+            <en><![CDATA[ This beautiful ready to move in fully furnished detached villa has a prime location in San Miguel De Salinas overlooking the salt lakes. Quietly located a short distance from San Miguel de Salinas where you will find all necessary amenities such as bars, restaurants and the large supermarket Mas y Mas. The villa is located near several golf courses such as Las Colinas Golf & Country Club, Campoamor Golf, Las Ramblas Golf and Villamartin Golf. With beautiful open views over the salt lakes of Torrevieja and the Mediterranean Sea. A 10-minute drive from the beaches of Punta Prima, Playa Flamenca, Cabo Roig and Campoamor, as well as close La Zenia Boulevard. The villa is located as a corner plot. Free views guaranteed from the first floor as well as from the solarium. This luxury home features no less than 3 bedrooms and 2 bathrooms. The property is southeast oriented and enjoys lots of natural light thanks to the open spaces and large windows. This villa has a beautiful spacious open plan living and dining area with modern kitchen fully equipped with high quality materials and appliances. There is a finished basement. ]]></en>
+            <es><![CDATA[ Esta hermosa mudanza en listo chalet totalmente amueblado tiene una ubicación privilegiada en San Miguel de Salinas con vistas a los lagos de sal. Tranquilamente situado a poca distancia de San Miguel de Salinas, donde encontrará inmediatamente todos los servicios necesarios, tales como bares, restaurantes y el gran supermercado Mas y Mas. La villa está cerca de varios campos de golf como Las Colinas Golf & Country Club, Campoamor Golf, Las Ramblas Golf y Villamartin Golf. Con hermosas vistas abiertas sobre las salinas de Torrevieja y el Mar Mediterráneo. A 10 minutos en coche de las playas de Punta Prima, Playa Flamenca, Cabo Roig y Campoamor, así como cerca de La Zenia Boulevard. La villa está situada como una parcela de esquina. Las vistas libres están garantizadas desde la planta baja, así como desde el solarium. Esta casa de lujo cuenta con nada menos que 3 dormitorios y 2 baños. La propiedad está orientada al sureste y goza de mucha luz natural gracias a los espacios abiertos y grandes ventanales. Esta villa tiene un precioso y espacioso salón-comedor de planta abierta con cocina moderna totalmente equipada con materiales y electrodomésticos de alta calidad. Hay un sótano terminado. ]]></es>
+            <nl><![CDATA[ Deze prachtige instapklare volledig bemeubelde vrijstaande villa heeft een toplocatie in San Miguel De Salinas met zicht op de zoutmeren. Rustig gelegen op korte afstand  van San Miguel de Salinas daar vindt u meteen alle nodige voorzieningen zoals bars, restaurantjes en de grote supermarkt Mas y Mas. De villa ligt nabij verschillende golfdomeinen zoals Las Colinas Golf & Country Club, Campoamor Golf, Las Ramblas Golf en Villamartin Golf. Met prachtig open uitzicht over de zoutmeren van Torrevieja en de Middellandse Zee. Op  10 minuten rijden van de stranden van Punta Prima, Playa Flamenca, Cabo Roig en Campoamor, evenals dicht La Zenia Boulevard. De villa is gelegen als hoekplot. Vrije verzichten garandeert vanaf de begane grond alsook vanaf het solarium. Deze luxewoning beschikt over maar liefst 3 slaapkamers en 2 badkamers. De woning is zuidoost georiënteerd en geniet veel natuurlijk daglicht dankzij de open ruimtes en grote raampartijen. Deze villa heeft een mooie ruime open woon- en eetkamer met moderne keuken die volledig is uitgerust met hoogwaardige materialen en apparaten. Er is een afgewerkte kelder. ]]></nl>
+        </desc>
+        <images>
+            <image id="1">
+                <url>https://micosta.be/site/assets/files/44917/download-1.jpg</url>
+            </image>
+            <image id="2">
+                <url>https://micosta.be/site/assets/files/44917/20230623_114606_001_1300x900_2.jpg</url>
+            </image>
+            <image id="3">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113955_1300x900_2.jpg</url>
+            </image>
+            <image id="4">
+                <url>https://micosta.be/site/assets/files/44917/20230623_114028.jpg</url>
+            </image>
+            <image id="5">
+                <url>
+                    https://micosta.be/site/assets/files/44917/whatsapp_image_2023-08-05_at_12_27_06.jpeg</url>
+            </image>
+            <image id="6">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113831_001.jpg</url>
+            </image>
+            <image id="7">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113910_001.jpg</url>
+            </image>
+            <image id="8">
+                <url>https://micosta.be/site/assets/files/44917/20230623_114357_1300x900.jpg</url>
+            </image>
+            <image id="9">
+                <url>https://micosta.be/site/assets/files/44917/20230623_114444.jpg</url>
+            </image>
+            <image id="10">
+                <url>https://micosta.be/site/assets/files/44917/20230623_114818_2.jpg</url>
+            </image>
+            <image id="11">
+                <url>
+                    https://micosta.be/site/assets/files/44917/whatsapp_image_2023-08-05_at_12_27_04.jpeg</url>
+            </image>
+            <image id="12">
+                <url>
+                    https://micosta.be/site/assets/files/44917/whatsapp_image_2023-08-05_at_12_27_07.jpeg</url>
+            </image>
+            <image id="13">
+                <url>https://micosta.be/site/assets/files/44917/hervekoop_2.jpeg</url>
+            </image>
+            <image id="14">
+                <url>https://micosta.be/site/assets/files/44917/herverk.jpeg</url>
+            </image>
+            <image id="15">
+                <url>https://micosta.be/site/assets/files/44917/herver.jpeg</url>
+            </image>
+            <image id="16">
+                <url>https://micosta.be/site/assets/files/44917/20230623_111725_001.jpg</url>
+            </image>
+            <image id="17">
+                <url>https://micosta.be/site/assets/files/44917/93.jpeg</url>
+            </image>
+            <image id="18">
+                <url>https://micosta.be/site/assets/files/44917/95.jpeg</url>
+            </image>
+            <image id="19">
+                <url>https://micosta.be/site/assets/files/44917/94.jpeg</url>
+            </image>
+            <image id="20">
+                <url>https://micosta.be/site/assets/files/44917/91.jpeg</url>
+            </image>
+            <image id="21">
+                <url>https://micosta.be/site/assets/files/44917/20230623_110917_2.jpg</url>
+            </image>
+            <image id="22">
+                <url>https://micosta.be/site/assets/files/44917/20230623_112316.jpg</url>
+            </image>
+            <image id="23">
+                <url>https://micosta.be/site/assets/files/44917/97.jpeg</url>
+            </image>
+            <image id="24">
+                <url>https://micosta.be/site/assets/files/44917/20230623_112335.jpg</url>
+            </image>
+            <image id="25">
+                <url>https://micosta.be/site/assets/files/44917/20230623_112732.jpg</url>
+            </image>
+            <image id="26">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113456_001_3.jpg</url>
+            </image>
+            <image id="27">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113229_001.jpg</url>
+            </image>
+            <image id="28">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113114_001.jpg</url>
+            </image>
+            <image id="29">
+                <url>https://micosta.be/site/assets/files/44917/20230623_113229_001_1300x900.jpg</url>
+            </image>
+        </images>
+    </property>
+</root>
